@@ -7,9 +7,9 @@
 
 ### Ferramentas e Tecnologias que utilizo:
 
-<div style="display: inline_block"><br> 
-  <img align="center" widht="40" height"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  &ensp;      
+<div style="display: inline_block"><br>   
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  &ensp; 
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   &ensp; 
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
