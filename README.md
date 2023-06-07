@@ -36,6 +36,6 @@
 </div> 
 
 
-![Snake Animation](https://github.com/pefilitto/pefilitto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pefilitto/pefilitto/blob/output/github-contribution-grid-snake.svg)
 
 
