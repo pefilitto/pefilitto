@@ -1,4 +1,4 @@
-# Ola! Muito prazer, meu nome é *Pedro Filitto*{: style="font-family: cursive; color: blue;"} 😁
+# Ola! Muito prazer, meu nome é *Pedro Filitto* 😁
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pefilitto&theme=default&hide_border=false)
