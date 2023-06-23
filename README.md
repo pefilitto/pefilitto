@@ -1,4 +1,4 @@
-# Ola! Muito prazer, meu nome é *Pedro Filitto* 😁
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=38&pause=1000&color=black&vCenter=true&width=435&height=35&lines=Hi%2C+Olá!+Meu+Nome+é+Pedro+Filitto" alt="Typing SVG" /></a></h1>
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pefilitto&theme=vue&hide_border=false)
