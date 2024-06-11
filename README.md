@@ -22,11 +22,6 @@
   &ensp;
   <img align="center" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
   &ensp;
-</div> 
-
-### Estou aprendendo:
-
-<div style="display: inline_block"><br>
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
   &ensp;      
 </div> 
