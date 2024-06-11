@@ -16,7 +16,7 @@
   &ensp;  
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   &ensp;
-  <img align="center" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" />
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />        
   &ensp;
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   &ensp;
