@@ -31,7 +31,7 @@
 ### Aprendendo sobre:
 
 <div style="display: inline_block"><br> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
 </div> 
 
 <hr>
