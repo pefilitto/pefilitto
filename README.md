@@ -3,7 +3,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pefilitto&theme=dracula&hide_border=false)
 ![Stats](https://github-readme-stats.vercel.app/api?username=pefilitto&layout=compact&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorakutsu&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pefilitto&layout=compact&theme=dracula)
 
 ### Ferramentas e Tecnologias que utilizo:
 
