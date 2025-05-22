@@ -7,6 +7,8 @@
 ### Ferramentas e Tecnologias que utilizo:
 
 <div style="display: inline_block"><br> 
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />  
+  &ensp;
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   &ensp;
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
@@ -26,12 +28,6 @@
 </div> 
 
 <hr>
-
-### Aprendendo sobre:
-
-<div style="display: inline_block"><br> 
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
-</div> 
 
 <hr>
 <div align="center">   
